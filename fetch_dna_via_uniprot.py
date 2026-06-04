@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-文件名：fetch_dna_by_nucleotide_accession.py
+
 功能：从UniProt记录中提取核苷酸访问号，并下载对应DNA序列。
 路径：UniProt_ID -> Nucleotide_Accession -> NCBI_FASTA
 """
